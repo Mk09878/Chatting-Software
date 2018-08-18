@@ -1,0 +1,18 @@
+Sys1: source
+Sys2: ingress router
+Sys3: router
+Sys4: outgress router
+Sys5: dest
+
+step to run
+
+1. first run dest in sys5
+
+2. next run outgress router in sys4
+
+3. next run router in sys3
+
+4. next run ingress router in sys2
+
+5. finally run source in sys1 
+
